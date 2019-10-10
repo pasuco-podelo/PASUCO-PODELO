@@ -1,0 +1,107 @@
+body {
+    text-align: center;
+    font-family: "Courier New";
+}
+
+/* TITLE HEADER ----------------------------------------------------------------------- */
+
+.header-container {
+    position: relative;
+    text-align: center;
+}
+
+.website-header-image {
+    max-width: 100%;
+}
+
+.pasuco-podelo-header-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 4.5em;
+    font-family: "Courier New";
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.headshot {
+    text-align: center;
+    position: relative;
+    width: 30%;
+    padding-top: 2%;
+}
+
+.headshot-container {
+    text-align: center;
+    width: 100%;
+}
+
+.song-link {
+    color: #00cc99;
+}
+
+/* NAVIGATION BAR -------------------------------------------------------------------- */
+
+.part-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.part-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 2.5em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.part-image {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+
+/* PART ELEMENTS --------------------------------------------------------------------- */
+
+.gallery-container {
+    position: relative;
+    text-align: center;
+}
+
+.picture-container {
+    padding-top: 2%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+
+.description-text {
+    padding: 3%;
+    font-size: 1.5em;
+}
+
+.pasuco-part-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    font-family: "Courier New";
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.images-container {
+    position: relative;
+    text-align: center;
+}
+
+.image-container {
+    padding: 5%;
+    width: 100%;
+}
